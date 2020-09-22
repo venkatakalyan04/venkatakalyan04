@@ -7,7 +7,6 @@ and Keep the code Quality , High reviewing code
 
 
 - 🔭 I’m currently working on Fiver
-- 🌱 I’m currently learning Redux And Redux Saga
 - 👯 I’m looking to collaborate With  React Developers 
 - 📫 How to reach me:venkatakalyan47
 
